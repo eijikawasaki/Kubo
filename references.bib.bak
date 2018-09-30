@@ -1,0 +1,21 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Book{Goodfellow-et-al-2016,
+  Title                    = {Deep Learning},
+  Author                   = {Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+  Publisher                = {MIT Press},
+  Year                     = {2016},
+  Note                     = {\url{http://www.deeplearningbook.org}}
+}
+
+@Misc{1803.08823,
+  Title                    = {A high-bias, low-variance introduction to Machine Learning for physicists},
+
+  Author                   = {Pankaj Mehta and Marin Bukov and Ching-Hao Wang and Alexandre G. R. Day and Clint Richardson and Charles K. Fisher and David J. Schwab},
+  Year                     = {2018},
+
+  Eprint                   = {arXiv:1803.08823}
+}
+
